@@ -1,4 +1,4 @@
-<script>//<![CDATA[
+//<![CDATA[
         $("[title]").HasubTechseover(function () {
             $this_tool_tip_elm = $(this);
             tool_tip_title = $this_tool_tip_elm.attr("title");
@@ -14,4 +14,4 @@
                 $("#HasubTech_tooltip").remove();
             });
         });
-    //]]></script>
+    //]]>
