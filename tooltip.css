@@ -1,0 +1,23 @@
+<style>
+        #HasubTech_tooltip {
+            pointer-events: none;
+            position: fixed;
+            background-color: #fff;
+            padding: 5px 15px;
+            z-index: 9999999;
+            white-space: normal;
+            font-size: 12px;
+            color: #000;
+            border-radius: 5px;
+            -o-border-radius: 5px;
+            -ms-border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            -webkit-box-shadow: 0 2px 5px rgb(0 0 0 / 40%);
+            -moz-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+            -ms-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+            -o-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+            box-shadow: 0 2px 5px rgb(0 0 0 / 40%);
+            text-align: center;
+        }
+    </style>
